@@ -1,0 +1,14 @@
+process (nRst, clk)
+begin
+if(nRst = '0') then
+int cnt <= (others =. 0)
+else
+int cnt <= cnt +1
+end if
+end process
+
+startsig <= '1' when int cnt = 200
+		else 0
+
+data <= x"23" when cnt >= 150 or cnt<250
+else x"00";

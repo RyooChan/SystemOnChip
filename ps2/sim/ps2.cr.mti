@@ -1,0 +1,27 @@
+F:/MainTheme/2019_soc/ps2/design/tb_ps2_keyboard.vhd {1 {vcom -work work -2002 -explicit F:/MainTheme/2019_soc/ps2/design/tb_ps2_keyboard.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity tb_ps2_keyboard
+-- Compiling architecture BEH of tb_ps2_keyboard
+
+} {} {}} F:/MainTheme/2019_soc/ps2/design/ps2_receiver.vhd {0 {vcom -work work -2002 -explicit F:/MainTheme/2019_soc/ps2/design/ps2_receiver.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+** Error: F:/MainTheme/2019_soc/ps2/design/ps2_receiver.vhd(2): (vcom-1491) Empty source files.
+
+
+} {4.0 5.0} {}} F:/MainTheme/2019_soc/ps2/design/ps2_keyboard.vhd {1 {vcom -work work -2002 -explicit F:/MainTheme/2019_soc/ps2/design/ps2_keyboard.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ps2_keyboard
+-- Compiling architecture BEH of ps2_keyboard
+
+} {} {}}

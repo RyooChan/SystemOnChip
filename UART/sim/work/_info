@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/SoC_2015142028/2019_10_04/ps2/sim
+Etb_uart
+Z0 w1570751764
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dD:/SoC_2015142028/2019_10_11/UART/sim
+Z6 8D:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd
+Z7 FD:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd
+l0
+L6
+V0hc1Y39?lXnF?0hHLWAhG2
+!s100 ZPFgl=nDDD;T^=0Vzo;O33
+Z8 OV;C;10.5c;63
+32
+Z9 !s110 1570751768
+!i10b 1
+Z10 !s108 1570751768.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd|
+Z12 !s107 D:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 7 tb_uart 0 22 0hc1Y39?lXnF?0hHLWAhG2
+l44
+L8
+V_]H8@7lKS<j4AVcP^D@`a1
+!s100 ?QlgXL>=>Qg9GAokCGG761
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Euart_rx
+Z15 w1570750293
+R1
+R2
+R3
+R4
+R5
+Z16 8D:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd
+Z17 FD:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd
+l0
+L6
+Vki1LlboPhMNDOzaa]n?Ul1
+!s100 VTYk=FIATCcX;8ilhScQJ3
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd|
+Z19 !s107 D:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 7 uart_rx 0 22 ki1LlboPhMNDOzaa]n?Ul1
+l28
+L16
+V6`13gnB70goai2OIL0d691
+!s100 3oHI^FAJ@:YM7D8kLJ8]`1
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Euart_tx
+Z20 w1570749787
+R1
+R2
+R3
+R4
+R5
+Z21 8D:/SoC_2015142028/2019_10_11/UART/design/uart_tx.vhd
+Z22 FD:/SoC_2015142028/2019_10_11/UART/design/uart_tx.vhd
+l0
+L6
+VmeRZIaDaTKM86WB;NZLfo1
+!s100 >3cVEbbP]0:U:Z`jdIQ_02
+R8
+32
+R9
+!i10b 1
+R10
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/SoC_2015142028/2019_10_11/UART/design/uart_tx.vhd|
+Z24 !s107 D:/SoC_2015142028/2019_10_11/UART/design/uart_tx.vhd|
+!i113 1
+R13
+R14
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 7 uart_tx 0 22 meRZIaDaTKM86WB;NZLfo1
+l29
+L17
+VlXABb@T0njDmGg_i:TlCX3
+!s100 c`_QGl71TJUbMWS3]ZSc`2
+R8
+32
+R9
+!i10b 1
+R10
+R23
+R24
+!i113 1
+R13
+R14

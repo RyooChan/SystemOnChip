@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+dF:\MainTheme\2019_soc\ps2_keyboard
+Eps2_keyboard
+Z0 w1569554382
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dF:\MainTheme\2019_soc\ps2\sim
+Z6 8F:/MainTheme/2019_soc/ps2/design/ps2_keyboard.vhd
+Z7 FF:/MainTheme/2019_soc/ps2/design/ps2_keyboard.vhd
+l0
+L6
+VFNaDC0BLGd3l3OCTN3lNo0
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1570154654.595000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/MainTheme/2019_soc/ps2/design/ps2_keyboard.vhd|
+Z11 !s107 F:/MainTheme/2019_soc/ps2/design/ps2_keyboard.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 gMNZD^:FadNkbcoXW2gTX2
+!i10b 1
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 12 ps2_keyboard 0 22 FNaDC0BLGd3l3OCTN3lNo0
+l31
+L17
+V]W_BP;kTZ2]=AXzXD`P:P3
+!s100 U>Q<C<^^UBc4Kz:V?zaoA0
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!i10b 1
+Etb_ps2_keyboard
+Z14 w1569557370
+R1
+R2
+R3
+R4
+R5
+Z15 8F:/MainTheme/2019_soc/ps2/design/tb_ps2_keyboard.vhd
+Z16 FF:/MainTheme/2019_soc/ps2/design/tb_ps2_keyboard.vhd
+l0
+L6
+VI=kI@JMLKm0z]>kAk?c=:1
+!s100 SVO[PAeYlAB6_S>1<`VnG3
+R8
+32
+!i10b 1
+Z17 !s108 1570154655.242000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|F:/MainTheme/2019_soc/ps2/design/tb_ps2_keyboard.vhd|
+Z19 !s107 F:/MainTheme/2019_soc/ps2/design/tb_ps2_keyboard.vhd|
+R12
+R13
+Abeh
+R1
+R2
+R3
+R4
+DEx4 work 15 tb_ps2_keyboard 0 22 I=kI@JMLKm0z]>kAk?c=:1
+l27
+L8
+VX5J<J;YE_F?mRn5@@iJhc0
+!s100 `FDhF9ZGKlSz8iWDoP8_c0
+R8
+32
+!i10b 1
+R17
+R18
+R19
+R12
+R13

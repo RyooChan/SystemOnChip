@@ -1,0 +1,11 @@
+D:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+** Error (suppressible): D:/SoC_2015142028/2019_10_11/UART/design/tb_uart.vhd(2): (vcom-1491) Empty source files.
+
+} {} {}} D:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5c Compiler 2017.01 Jan 23 2017
+-- Loading package STANDARD
+** Error (suppressible): D:/SoC_2015142028/2019_10_11/UART/design/uart_rx.vhd(2): (vcom-1491) Empty source files.
+
+} {} {}}
